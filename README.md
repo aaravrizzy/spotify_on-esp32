@@ -12,8 +12,8 @@ isplay Preview
 +------------------------------------+
 |               [ ▶ ]                |  <-- Live Play / Pause State Icon
 |------------------------------------|
-| Blinding Lights                    |  <-- Smooth Marquee Scrolling Title
-| The Weeknd                         |  <-- Artist Name
+| Some of your love                   |  <-- Smooth Marquee Scrolling Title
+| PartyNextDOOR                        |  <-- Artist Name
 | [==========----------------------] |  <-- Dynamic Track Progress Bar
 +------------------------------------+
 Hardware Requirements
