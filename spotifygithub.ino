@@ -15,12 +15,12 @@
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 // ==================== CONFIGURATION ====================
-const char* ssid         = "wifi name";
-const char* password     = "wifi pass";
+const char* ssid = "YOUR_WIFI";
+const char* password = "YOUR_PASSWORD";
 
-const char* clientId     = "client id given by spotify ";
-const char* clientSecret = "client id password";
-const char* refreshToken = "refresh token ";
+const char* clientId = "YOUR_CLIENT_ID";
+const char* clientSecret = "YOUR_CLIENT_SECRET";
+const char* refreshToken = "YOUR_REFRESH_TOKEN";
 // =======================================================
 
 // Spotify Playback State
